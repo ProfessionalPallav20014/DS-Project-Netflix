@@ -11,4 +11,4 @@ This project demonstrates a netflix recommendation system built using Python wit
 
 ### 🚀 How to Run
 ```bash
-python app.py or streamlit run app.py
+streamlit run app.py
