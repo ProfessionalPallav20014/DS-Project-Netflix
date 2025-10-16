@@ -21,7 +21,7 @@ A personalized movie recommendation engine built using Python, designed to simul
 | Language         | Python                           |
 | Interface        | Streamlit                        |
 | Data Format      | Pickle (`.pkl`)                  |
-| Deployment       | GitHub Pages (optional)          |
+| Deployment       | Streamlit cloud                  |
 | Learning Focus   | Recommendation Systems, RL       |
 
 
