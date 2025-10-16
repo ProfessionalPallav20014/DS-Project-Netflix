@@ -14,6 +14,12 @@ A personalized movie recommendation engine built using Python, designed to simul
 
 ---
 
+## 🔗 Live Demo
+
+[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/ProfessionalPallav20014/DS-Project-Netflix/main/app.py](https://ds-project-netflix-cybtszfg6ejprs9airltnu.streamlit.app/)](https://ds-project-netflix-cybtszfg6ejprs9airltnu.streamlit.app/))
+
+---
+
 ## 🧰 Tech Stack
 
 | Component        | Details                          |
